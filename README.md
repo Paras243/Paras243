@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paras243
-- 👀 I’m interested in ...
+- 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning backend with nodejs.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my email is parasr243@gmail.com
 
 <!---
